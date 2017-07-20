@@ -3,7 +3,7 @@ Fetch all advertisements.
 
 ### Request
 ```
-DELETE /advertisements
+GET /advertisements
 ```
 
 ### Headers
