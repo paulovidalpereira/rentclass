@@ -26,6 +26,8 @@ Status:
 Body:
 ```
 {
-  "message": "ok"
+  "data": {
+    "message": "ok"
+  }
 }
 ```
