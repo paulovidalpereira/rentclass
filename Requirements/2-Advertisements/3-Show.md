@@ -3,7 +3,7 @@ Get item of advertisement.
 
 ### Request
 ```
-POST /advertisements/{uuid}/toggle-published
+POST /advertisements/{uuid}
 ```
 
 ### Headers
